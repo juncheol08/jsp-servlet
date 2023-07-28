@@ -25,6 +25,7 @@
     <p>이름 : <%=getName() %></p>
     <p>주소 : <%=addr %></p>
     <a href="test01.jsp">test01</a>
+    <a href="test02.jsp">test02</a>
   </div>
   </body>
 </html>
